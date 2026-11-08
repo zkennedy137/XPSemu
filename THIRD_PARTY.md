@@ -24,7 +24,7 @@ Bundled data:
 | Item | Licence | Notice file |
 |---|---|---|
 | Blank Xbox HDD image (`ps5/blank-hdd/xbox_hdd.qcow2`) | MIT (xemu-dashboard, Ryzee119) | `licenses/third-party/xemu-dashboard-blank-hdd-MIT.txt` |
-| Patch catalog (`ps5/patch-catalog.tsv`) | NOT YET CONFIRMED: the source repository has no licence | - |
-| Box art name list (`ps5/libretro-xbox-boxarts.txt`) | NOT YET CONFIRMED: the source repository has no licence | - |
+| Patch catalog (`ps5/patch-catalog.tsv`) | Source (JayYardley/Xbox-Magic-Patches-by-Jay) has no licence. Included at the project owner's decision; not yet confirmed with the authors. | - |
+| Box art name list (`ps5/libretro-xbox-boxarts.txt`) | Source (libretro-thumbnails Microsoft - Xbox) has no licence. Included at the project owner's decision; not yet confirmed with the authors. | - |
 
-The two data items above must be resolved before a release is published.
+The two data items above are included at the project owner's decision, which is recorded here. Confirming them with the original authors is still recommended.
