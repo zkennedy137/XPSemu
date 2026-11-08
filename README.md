@@ -1,3 +1,14 @@
+# XPSemu (PS5)
+
+XPSemu is a modified build of xemu for the PS5. It is not the official xemu
+release and is not affiliated with the xemu project. The changes are in
+`MODIFIED.md`, the base commit is `ffa4943`, and the licence is GPL-2.0-or-later
+(`COPYING`). Third-party components and their licences are in `THIRD_PARTY.md`.
+
+XPSemu contains no BIOS, firmware or games. You supply your own.
+
+---
+
 <p align="center">
   <img src="ps5/art/readme-banner.png" alt="XPSemu" width="100%">
 </p>
